@@ -6,7 +6,7 @@ CELL_SIZE = 60 # Size of each square cell in pixels
 FONT_SIZE = 14
 TITLE_FONT_SIZE = 40
 FONT_FAMILY = "Times New Roman"
-PEN_COLOR = "#1f2937" # Dark blue-gray
+PEN_COLOR = "#FF0000" # red-color
 LINE_THICKNESS = 2
 
 # --- 1. Create the Magic Square Generator ---
@@ -227,6 +227,7 @@ def run_magic_square_app():
 if __name__ == "__main__":
 
     run_magic_square_app()
+
 
 
 
