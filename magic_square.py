@@ -4,10 +4,10 @@ import sys
 # --- Configuration Constants ---
 CELL_SIZE = 60 # Size of each square cell in pixels
 FONT_SIZE = 14
-TITLE_FONT_SIZE = 45
-FONT_FAMILY = "Consolas"
-PEN_COLOR = "##FF0000" # red-color pen
-LINE_THICKNESS = 6
+TITLE_FONT_SIZE = 40
+FONT_FAMILY = "Times New Roman"
+PEN_COLOR = "#1f2937" # Dark blue-gray
+LINE_THICKNESS = 2
 
 # --- 1. Create the Magic Square Generator ---
 
